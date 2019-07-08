@@ -10,9 +10,10 @@ o(n)
 o(n)
 
 5. What is the runtime complexity of the provided code in `names.py`?
-
+o(n^2)
 6. What is the space complexity of the provided code in `names.py`?
-
+o(n)
 7. What is the runtime complexity of your optimized code in `names.py`?
-
+o(n)
 8. What is the space complexity of your optimized code in `names.py`?
+o(n)
